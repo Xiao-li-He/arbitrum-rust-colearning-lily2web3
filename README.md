@@ -24,3 +24,15 @@ https://sepolia.arbiscan.io/tx/0x4ba47d99cb958da8a88a606f01e7985a2e22132f9edcd4c
 
 
 
+# Task2
+
+
+
+查询 Arbitrum 测试网余额，采用自己钱包地址：0xF6FEBd05224397E58CFd604220b31f84c089A2e1
+
+
+
+
+
+
+
