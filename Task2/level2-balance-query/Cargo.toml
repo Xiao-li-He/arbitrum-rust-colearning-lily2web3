@@ -1,0 +1,12 @@
+[package]
+name = "level2-balance-query"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+alloy = "1.2.1"
+tokio = { version = "1.49.0", features = ["full"] }
+
+[[bin]]
+name = "balance_query"   # 生成的可执行文件名
+path = "src/balance.rs"  # 指定源代码文件的位置

@@ -1,0 +1,1 @@
+C:\Users\hxl\Documents\code\HackQuest\arbitrum-rust-colearning-lily2web3\Task2\level2-balance-query\target\debug\balance_query.exe: C:\Users\hxl\Documents\code\HackQuest\arbitrum-rust-colearning-lily2web3\Task2\level2-balance-query\src\balance.rs
