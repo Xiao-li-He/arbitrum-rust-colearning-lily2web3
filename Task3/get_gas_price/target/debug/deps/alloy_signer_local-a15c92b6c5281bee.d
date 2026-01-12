@@ -1,0 +1,10 @@
+C:\Users\hxl\Documents\code\HackQuest\arbitrum-rust-colearning-lily2web3\Task3\get_gas_price\target\debug\deps\alloy_signer_local-a15c92b6c5281bee.d: C:\Users\hxl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-signer-local-1.4.0\src\lib.rs C:\Users\hxl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-signer-local-1.4.0\src\error.rs C:\Users\hxl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-signer-local-1.4.0\src\private_key.rs C:\Users\hxl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-signer-local-1.4.0\src\../README.md
+
+C:\Users\hxl\Documents\code\HackQuest\arbitrum-rust-colearning-lily2web3\Task3\get_gas_price\target\debug\deps\liballoy_signer_local-a15c92b6c5281bee.rlib: C:\Users\hxl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-signer-local-1.4.0\src\lib.rs C:\Users\hxl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-signer-local-1.4.0\src\error.rs C:\Users\hxl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-signer-local-1.4.0\src\private_key.rs C:\Users\hxl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-signer-local-1.4.0\src\../README.md
+
+C:\Users\hxl\Documents\code\HackQuest\arbitrum-rust-colearning-lily2web3\Task3\get_gas_price\target\debug\deps\liballoy_signer_local-a15c92b6c5281bee.rmeta: C:\Users\hxl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-signer-local-1.4.0\src\lib.rs C:\Users\hxl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-signer-local-1.4.0\src\error.rs C:\Users\hxl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-signer-local-1.4.0\src\private_key.rs C:\Users\hxl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-signer-local-1.4.0\src\../README.md
+
+C:\Users\hxl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-signer-local-1.4.0\src\lib.rs:
+C:\Users\hxl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-signer-local-1.4.0\src\error.rs:
+C:\Users\hxl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-signer-local-1.4.0\src\private_key.rs:
+C:\Users\hxl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-signer-local-1.4.0\src\../README.md:

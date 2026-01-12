@@ -1,0 +1,5 @@
+C:\Users\hxl\Documents\code\HackQuest\arbitrum-rust-colearning-lily2web3\Task3\get_gas_price\target\debug\build\serde_json-072bdb7849d384f2\build_script_build-072bdb7849d384f2.d: C:\Users\hxl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_json-1.0.149\build.rs
+
+C:\Users\hxl\Documents\code\HackQuest\arbitrum-rust-colearning-lily2web3\Task3\get_gas_price\target\debug\build\serde_json-072bdb7849d384f2\build_script_build-072bdb7849d384f2.exe: C:\Users\hxl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_json-1.0.149\build.rs
+
+C:\Users\hxl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_json-1.0.149\build.rs:
