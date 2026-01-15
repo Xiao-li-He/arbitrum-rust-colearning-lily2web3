@@ -1,0 +1,6 @@
+# 忽略 Rust 编译产物
+target/
+
+# 忽略 IDE 配置
+.vscode/
+.idea/
